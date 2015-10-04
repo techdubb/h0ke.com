@@ -2,4 +2,9 @@
 title: projects 
 template: page.hbt
 ---
-cool projects!
+* [Buying Club Software](http://buyingclubsoftware.com)
+* [Start A Buying Club](http://startabuyingclub.com)
+* [Embedagram](http://embedagram.com)
+* [ComicSansify](http://comicsansify.com)
+* [Map Communities](http://mapcommunities.org)
+* [Twitter Bots](https://twitter.com/h0ke/lists/bots/members)
