@@ -12,7 +12,7 @@
 ----------------------------------------- */
 html {
 	font: 62.5% verdana, sans-serif;
-	background: url(../images/bg.png);	
+	background: rgb(197, 183, 162);
 }
 
 body {
@@ -27,31 +27,50 @@ body {
 	display: block;
 }
 
-.wrapper {
-	-moz-border-radius: 7px; 
+header {
+	-moz-border-radius: 7px 7px 0px 0px; 
 	-webkit-border-radius: 7px; 
 	border-radius: 7px; 
 	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
-	border: 2px solid #5C4231;
-	background: #FFF;
+	background: url(../images/bg.png);
 	padding: 0 20px 0 20px;
-	margin: 25px auto 25px auto;
-	max-width: 600px;
+	margin: 7px auto 25px auto !important;
+	max-width: 1200px;
+	font: 3.0rem 'Francois One', arial, serif;
+	letter-spacing: 0.5rem;
+	color: #FFF;
 }
 
-h1 { 
+header h1 { 
 	font: 7.0rem 'Francois One', arial, serif; 
 	margin: 35px 0 15px 0;
-	text-align: center;
+	color: white;
 }
 
-h1.show-on-phones { 
+header h1.show-on-phones { 
 	font-size: 5.0rem;
+}
+
+header a:link, header a:visited {
+	font: 3.0rem 'Francois One', arial, serif;
+	letter-spacing: 0.5rem;
+	text-decoration: none;
+	margin: 80px 0 0 28px;
+	display: inline-block;
+	border: none;
+	color: #FFF;
+}
+
+header a:hover {
+	border-bottom: 1px dotted #FFF;
 }
 
 h2 {
 	font: 4.0rem 'Francois One', arial, serif;
 	letter-spacing: 0.5rem;
+	line-height: 3.0rem;
+	padding: 0;
+	margin: 0;
 }
 
 a:link, a:visited {
@@ -70,7 +89,12 @@ sup {
 
 footer {
 	font-size: 12px;
-	padding-bottom: 15px;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+footer a:link, footer a:visited {
+	border: none;
 }
 
 #jquery-lightbox a {
@@ -78,7 +102,7 @@ footer {
 }
 
 #embedagram, #embedagram-phone {
-	margin-bottom: 25px;
+	margin-bottom: 5px;
 	text-align: center;
 }
 

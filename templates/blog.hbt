@@ -1,0 +1,18 @@
+{{> header}}
+    <div class="row">
+      <div class="three columns offset-by-three">
+          <h2>weblog</h2>
+      </div>
+      <div class="four columns">
+          <ul>
+            {{#each collections.posts}}
+                <li>
+                    <a href="{{this.path}}">{{this.title}}</a>
+                    <article>{{{this.excerpt}}}</article>
+                </li>
+            {{/each}}
+          </ul>
+      </div>  
+      <hr class="row ten columns centered dotted"/>
+    </div>
+{{> footer}}
