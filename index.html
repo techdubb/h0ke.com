@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+	
+	<!-- Set the viewport width to device width for mobile -->
+	<meta name="viewport" content="width=device-width" />
+	
+	<title>h0ke.com</title>
+        <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+ 
+	<!-- Included CSS Files -->
+	<link rel="stylesheet" href="css/foundation.css">
+	<link rel="stylesheet" href="css/app.css">
+	<link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
+
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="css/ie.css">
+	<![endif]-->
+	
+	<!-- IE Fix for HTML5 Tags -->
+	<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<!-- container -->
+	<div class="container">
+		<div class="wrapper">
+			<header class="row">
+				<div class="twelve columns">
+					<h1 class="hide-on-phones">h0ke.com</h1>
+					<h1 class="show-on-phones">h0ke.com</h1>
+					<hr/>
+				</div>
+				<div class="row">
+					<div class="eleven columns centered">
+						<p>
+						    Hi. My name is Matt. Some people call me 'Hokie'. Others call me 'Hoke'.
+						</p>
+					</div>
+					<hr class="eleven columns centered light"/>
+				</div>
+			</header>
+			<div class="row">
+				<div class="five columns offset-by-one">
+				    <h2>Projects</h2>
+				</div>
+				<div class="four columns">
+				    <ul>
+					<li><a href="http://buyingclubsoftware.com/">Buying Club Software</a></li>
+					<li><a href="http://startabuyingclub.com/">Start A Buying Club</a></li>
+					<li><a href="http://embedagram.com/">Embedagram</a></li>
+					<li><a href="http://comicsansify.com/">ComicSansify</a></li>
+					<li><a href="http://mapcommunities.org/">Map Communities</a></li>
+					<li><a href="https://twitter.com/h0ke/lists/bots/members">Twitter Bots</a></li>
+				    </ul>
+				</div>	
+				<hr class="row ten columns centered dotted"/>
+			</div>
+			<div class="row">
+				<div class="five columns offset-by-one">
+				    <h2>Jetsam</h2>
+				</div>
+				<div class="four columns">
+				    <ul>
+					<li><a href="https://github.com/h0ke/">Github</a></li>
+					<li><a href="https://twitter.com/h0ke/">Twitter</a></li>
+					<li><a href="http://instagram.com/hoke">Instagram</a></li>
+					<li><a href="mailto:m@h0ke.com">E-mail</a></li>
+				    </ul>
+				</div>
+				<hr class="row ten columns centered dotted"/>
+			</div>
+		</div>
+		<footer class="row">
+			<div id="embedagram" class="hide-on-phones ten columns centered"></div>
+			<div id="embedagram-phone" class="show-on-phones ten columns centered"></div>
+		</footer>
+
+	</div>
+	<!-- container -->
+
+	<!-- Included JS Files -->
+	<script src="js/foundation.js"></script>
+	<script src="js/app.js"></script>
+	<script src="./js/jquery-embedagram.js"></script>
+	<script src="./js/jquery.lightbox-0.5.pack.js"></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+            $('#embedagram').embedagram({
+                instagram_id: 652347, 
+                limit: 5,
+                wrap_tag: '',
+                link_type: 'img',
+                thumb_width: 70,
+                success: function (){ $('#embedagram a').lightBox() } 
+            });
+	    $('#embedagram-phone').embedagram({
+                instagram_id: 652347, 
+                limit: 5,
+                wrap_tag: '',
+                thumb_width: 200 
+            });
+        });
+        </script>   
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-23373956-1']);
+          _gaq.push(['_trackPageview']);
+
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+</body>
+</html>

@@ -1,0 +1,81 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+html {
+	font: 62.5% verdana, sans-serif;
+	background: url(../images/bg.png);	
+}
+
+body {
+	font-size: 1.6rem;
+	line-height: 2.0rem;
+}
+
+.clear-it {
+	clear: both;
+	font-size: 1px;
+	line-height: 1px;
+	height: 1px;
+	display: block;
+}
+
+.wrapper {
+	-moz-border-radius: 7px; 
+	-webkit-border-radius: 7px; 
+	border-radius: 7px; 
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
+	border: 2px solid #5C4231;
+	background: #FFF;
+	padding: 0 20px 0 20px;
+	margin: 25px auto 25px auto;
+	max-width: 700px;
+}
+
+h1 { 
+	font: 3.0rem 'Francois One', arial, serif; 
+	line-height: 3.0rem;
+	margin: 35px 0 15px 0;
+	text-align: center;
+}
+
+h1.show-on-phones { 
+	font-size: 5.0rem;
+}
+
+h2 {
+	font: 2.0rem 'Francois One', arial, serif;
+	line-height: 2.0rem;
+	letter-spacing: 0.1rem;
+	text-align: center;
+	margin: 0 0 5px 0;
+}
+
+h3 {
+	font: 1.8rem 'Francois One', arial, serif;
+	line-height: 1.8rem;
+	letter-spacing: 0.1rem;
+	margin: 0 0 15px 0;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	border-bottom: 1px dotted #000;
+	color: #000;
+}
+
+a:hover {
+	border: none;
+}
+
+address {
+	text-align: center;
+}

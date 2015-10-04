@@ -1,0 +1,98 @@
+/* Artfully masterminded by ZURB  */
+
+/* -------------------------------------------------- 
+   Table of Contents
+-----------------------------------------------------
+:: Shared Styles
+*/
+
+
+/* -----------------------------------------
+   Shared Styles
+----------------------------------------- */
+html {
+	font: 62.5% verdana, sans-serif;
+	background: url(../images/bg.png);	
+}
+
+body {
+	font-size: 1.6rem;
+}
+
+.clear-it {
+	clear: both;
+	font-size: 1px;
+	line-height: 1px;
+	height: 1px;
+	display: block;
+}
+
+.wrapper {
+	-moz-border-radius: 7px; 
+	-webkit-border-radius: 7px; 
+	border-radius: 7px; 
+	-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
+	border: 2px solid #5C4231;
+	background: #FFF;
+	padding: 0 20px 0 20px;
+	margin: 25px auto 25px auto;
+	max-width: 600px;
+}
+
+h1 { 
+	font: 7.0rem 'Francois One', arial, serif; 
+	margin: 35px 0 15px 0;
+	text-align: center;
+}
+
+h1.show-on-phones { 
+	font-size: 5.0rem;
+}
+
+h2 {
+	font: 4.0rem 'Francois One', arial, serif;
+	letter-spacing: 0.5rem;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	border-bottom: 1px dotted #000;
+	color: #000;
+}
+
+a:hover {
+	border: none;
+}
+
+sup {
+	font-size: 13px;
+}
+
+footer {
+	font-size: 12px;
+	padding-bottom: 15px;
+}
+
+#jquery-lightbox a {
+	border-bottom: none;
+}
+
+#embedagram, #embedagram-phone {
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+#embedagram a {
+	margin: 0 10px 20px 10px;
+	line-height: 0;
+	border: 4px solid #5C4231;
+	display: inline-block;
+}
+
+#embedagram-phone a {
+	display: block;
+	line-height: 0;
+	width: 200px;
+	border: 4px solid #5C4231;
+	margin: 0 auto 20px auto;
+}
