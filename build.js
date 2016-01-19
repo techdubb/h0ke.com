@@ -32,11 +32,17 @@ var findTemplate = function(config) {
   };
 };
 
+
+var url = 'http://localhost:8080';
+if (process.env.NODE_ENV == 'production') {
+  url = 'http://h0ke.com';
+}
+
 var siteBuild = metalsmith(__dirname)
   .metadata({
     site: {
       title: 'h0ke.com',
-      url: 'http://h0ke.com'
+      url: url
     },
     author: "M. Hokanson"
   })
