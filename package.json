@@ -5,7 +5,7 @@
   "main": "build.js",
   "scripts": {
     "start": "nodemon -e js,css,json,hbt,md --ignore build/ build.js",
-    "build": "NODE_ENV=production build.js"
+    "build": "NODE_ENV=production node build.js"
   },
   "author": {
     "name": "M. Hokanson",
