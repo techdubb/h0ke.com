@@ -15,7 +15,6 @@
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
  
     <!-- Included CSS Files -->
-    <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
 
@@ -31,16 +30,13 @@
 <body>
     <!-- container -->
     <div class="container">
-        <header class="row">
-            <div class="six columns">
-                <h1 class="hide-on-phones">h0ke.com</h1>
-                <h1 class="show-on-phones">h0ke.com</h1>
+        <header>
+            <h1>h0ke.com</h1>
+            <hr/>
+            <div>
+                <a href="/">weblog</a> &#8226;
+                <a href="/projects">projects</a> &#8226;
+                <a href="/about">about</a>
             </div>
-      <div class="five columns offset-by-one">
-        <a href="/">weblog</a>
-        <a href="/projects">projects</a>
-        <a href="/about">about</a>
-      </div>
-      <hr class="light"/>
-    </header>
+        </header>
     <div class="clear-it">&nbsp;</div>
