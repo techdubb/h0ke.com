@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/h0ke
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://h0ke.com
+  * I am h0ke (https://keybase.io/h0ke) on keybase.
+  * I have a public key with fingerprint 1DED 3A53 7AE3 4AE9 4F35  5C2C 3272 8426 24CE 69A8
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1ded3a537ae34ae94f355c2c3272842624ce69a8",
+            "host": "keybase.io",
+            "key_id": "3272842624ce69a8",
+            "uid": "8c542330858867b0c7da30f24df46400",
+            "username": "h0ke"
+        },
+        "service": {
+            "hostname": "h0ke.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1417199126,
+    "expire_in": 157680000,
+    "prev": "17cc2c9538253d6195758793791ad653c492771b8e5c7e08d016faf8f4c0b78c",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.6
+Comment: https://keybase.io/crypto
+
+yMHeAnicbVFbSBRRGN7N0pSSoHRDJOp4SWnRuV/W6iWSgu6KQirbXM6ss6sz4+y4
+q21iYkqFsSIoYWhkbhaJaGWFD4tJIGISUoiRRYWEWUER3SyoGSnoofPyc77/+77/
+dn9tjC3B3pYOsjt2+HX75OibalthTTQ5BHhVrAWuEPDB5SDJigfqmi4rBnABVIQi
+zpE4zUGc4CBLSDhJCpiAYzTGEBiFEQKkWI4BTlCu+i2FacNzfpgjqyZmftyyaKL/
+4VcvJxiBJDAcRxiSYSiaRwRa5HBEwghRIigCQSyiH+oKVwlNdjnig6DOCUwkIAvQ
+6tcq+082R1ArTY2mq4YqqBUWahiayxIZtZrFCkLe/Ufv5mVFNOc1BQGo+2VVAS7U
+ZAqGbBmiBEqjLItilBPAGk3WoVu2GCRNMYj5rDIwYG2JFsydsCTOYCQuUihL0iRD
+szjNopxIkbhAsBhNozwDSYGGCCMiKCVxEiMRAsLTjACsiaoUFbhYs03OY1r6ZY/C
+GdW6Oe7YaOlKmz3BFrtqhXUxW0L8ur93VLLifsnHe+qvzrSVBY8WF48fcEeW9JHW
+tJbwQPhTMM2xIVqfm5fV/2A8i/Alasa1gorpmfDrnPim9ry7u7qT9gzN9/edG3zB
+z4LUricD+4/8mCzZPkB6kcW+U+cLfeub3UtfXrWt3vl9eKr34mz0ev5z8tKd986M
+sZeP8cNfMxrab3oc88nbjjU+g9mXEzcGtKnhvIg3t5iPsZeEHF11e78dnIhcKHsa
+24I3py4c4ncnTXa6Rlon3moNHzYNTqfkl2yO2zLVc+Lku86qs58bk4rC3qbS8aoO
+rzR0pvtecsHtheHeoiuZjpS50+nabObH5hvRUPlcx6N9lBh8uLjm1tafkZHfdowM
+8g==
+=mOV6
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/h0ke
+
+==================================================================
+

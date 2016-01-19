@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    
+    <!-- Set the viewport width to device width for mobile -->
+    <meta name="viewport" content="width=device-width" />
+    <base href="http://localhost:8080"/>
+    <title>h0ke.com</title>
+        <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+ 
+    <!-- Included CSS Files -->
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
+
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" href="css/ie.css">
+    <![endif]-->
+    
+    <!-- IE Fix for HTML5 Tags -->
+    <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <!-- container -->
+    <div class="container">
+        <header>
+            <h1>h0ke.com</h1>
+            <hr/>
+            <div>
+                <a href="/">weblog</a> &#8226;
+                <a href="/projects">projects</a> &#8226;
+                <a href="/about">about</a>
+            </div>
+        </header>
+    <div class="clear-it">&nbsp;</div>    <div class="content">
+      <h2>about</h2>
+      <p>Hi. I&#39;m Matt. Some people call me Hoke. I&#39;m currently residing in the fine city of El Cerrito, CA.</p>
+<p>You can find my résumé <a href="../_resume/">here</a>. You can send email to: m [at] h0ke [dot] com.</p>
+
+    </div>
+    <footer class="row">
+      <div class="embedagram"></div>
+      <div>
+        <a href="https://twitter.com/h0ke"><img src="./images/round_twitter.png"/></a>
+        <a href="https://instagram.com/hoke"><img src="./images/round_instagram.png"/></a>
+        <a href="https://github.com/h0ke"><img src="./images/round_github.png"/></a>
+        <a href="./rss.xml"><img src="./images/round_rss.png"/></a>
+      </div>
+    </footer>
+
+  </div>
+  <!-- container -->
+
+  <!-- Included JS Files -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+  <script src="./js/jquery-embedagram.pack.js"></script>
+  <script src="./js/jquery.lightbox-0.5.pack.js"></script>
+  <script type="text/javascript">
+  $(document).ready(function() {
+    $('.embedagram').embedagram({
+      instagram_id: 652347,
+      limit: 5,
+      wrap_tag: '',
+      link_type: 'img',
+      thumb_width: 70,
+      success: function (){ $('.embedagram a').lightBox() }
+    });
+  });
+  </script>   
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-23373956-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
