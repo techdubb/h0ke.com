@@ -36,7 +36,7 @@ var siteBuild = metalsmith(__dirname)
   .metadata({
     site: {
       title: 'h0ke.com',
-      url: 'http://localhost:8080'
+      url: 'http://h0ke.com'
     },
     author: "M. Hokanson"
   })
