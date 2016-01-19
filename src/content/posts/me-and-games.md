@@ -6,19 +6,17 @@ I've always wanted to like games. I've tried. I really have. When I was young, I
 
 Throughout high school, I didn't play video games. There was a brief stint of playing Dungeons & Dragons, but that was only when it was too hot or rainy to play street hockey.
 
-Once I got to college, the only draw to video games was the blazing fast campus network. Most of my focus on Unreal Tournament and Counterstrike was fed by surrounded by other people who were also avoiding work. However, the majority of my time in college was spent in class, doing work or socializing with actual humans.
+Once I got to college, the only draw to video games was the blazing fast campus network. Most of my focus on Unreal Tournament and Counterstrike was fed by being surrounded by other people who were also avoiding work. However, the majority of my time in college was spent in class, doing work or socializing with actual humans.
 
 After college I headed to Steamboat Springs, CO and played no games, unless you count the ones that involve alcohol. The ski town life was all consuming: snowboarding, mountain biking, hiking, drinking craft beer and dabbling in other mind altering particulars.
 
 When I moved back to Maine, I played video games since my good friend and roommate was an avid gamer. The PS3 had stepped up the graphics quality and online gameplay, so I found myself deep into Warhawk and watching other people play Fallout.
 
-Eventually I moved out to California and though I owned a PS3, I didn't use it much. I bought it play against/with my younger brother back in Maine. It also happened that I worked at game company and where most everyone was a huge gamer. I thought it would help me fit in. It didn't help and I eventually sold it.
-
-I'd also buy games on Steam and promptly not play them. But not in the normal way people buy Steam games to not play them (they're playing too many other games), but because I don't play games.
+Eventually I moved out to California and though I owned a PS3, I didn't use it much. I bought it to play against/with my younger brother back in Maine. It also happened that I worked at game company where most everyone was a huge gamer. I thought it would help me fit in at work, but it didn't. I eventually sold it.
 
 Occasionally in downtime I'll poke at a mobile game, but even then I don't quite find myself having fun.
 
-Several months ago, I knew my son was on the way and was advised to have some entertaining games ready to play while standing with said child sleeping in a carrier. I hopped onto steam and bought a few new games that looked good. I even went as far as buying a game controller for maximum standing gameplay.
+Several months ago, I knew my son was on the way and was advised to have some entertaining games ready to play while standing with said child sleeping in a carrier. I hopped onto Steam and bought a few new games that looked good. I even went as far as buying a game controller for maximum standing gameplay.
 
 So here I am, laptop loaded up with games, controller accessible and barely able to bring myself to start, let alone finish a video game. At the end of the day I'd rather be reading, programming or spending time with my family.
 
