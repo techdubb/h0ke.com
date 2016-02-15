@@ -9,14 +9,17 @@
     
     <!-- Set the viewport width to device width for mobile -->
     <meta name="viewport" content="width=device-width" />
-    <base href="{{site.url}}"/>
+    {{#if this.publishDate}}
+    <title>{{this.title}} | @h0ke</title>
+    {{else}}
     <title>h0ke.com</title>
-        <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
-        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    {{/if}}
+    <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="{{relative_path path "favicon.ico"}}" type="image/x-icon">
  
     <!-- Included CSS Files -->
-    <link rel="stylesheet" href="css/app.css">
-    <link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
+    <link rel="stylesheet" href="{{relative_path path "css/app.css"}}">
+    <link rel="stylesheet" type="text/css" href="{{relative_path path "css/jquery.lightbox-0.5.css"}}" media="screen" />
 
     <!--[if lt IE 9]>
         <link rel="stylesheet" href="css/ie.css">

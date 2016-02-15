@@ -4,7 +4,7 @@
       <ul>
         {{#each collections.posts}}
             <li>
-                <a class="title" href="{{this.path}}">{{this.title}}</a>
+                <a class="title" href="{{this.blogPath}}">{{this.title}}</a>
                 <article>{{{this.excerpt}}}</article>
             </li>
         {{/each}}

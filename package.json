@@ -14,8 +14,9 @@
   },
   "license": "MIT",
   "devDependencies": {
+    "markdown-it-footnote": "^2.0.0",
     "metalsmith": "^0.6.0",
-    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-markdownit": "^0.2.1",
     "metalsmith-templates": "^0.4.0",
     "handlebars": "^2.0.0-alpha.2",
     "metalsmith-collections": "^0.4.0",

@@ -1,5 +1,5 @@
 var metalsmith = require('metalsmith'),
-    markdown = require('metalsmith-markdown'),
+    markdown = require('metalsmith-markdownit'),
     templates = require('metalsmith-templates'),
     serve = require('metalsmith-serve'),
     watch = require('metalsmith-watch'),
@@ -9,12 +9,39 @@ var metalsmith = require('metalsmith'),
     branch = require('metalsmith-branch'),
     feed = require('metalsmith-feed'),
     handlebars  = require('handlebars'),
-    fs = require('fs');
+    fs = require('fs'),
+    path = require('path');
 
+var md = markdown({
+      typographer: true,
+      html: true
+    }).use(require('markdown-it-footnote'));
+
+var filePathTask = function(files, metalsmith, done){
+    for(var file in files){
+      if (file.indexOf('posts/') !== -1) {
+        files[file].blogPath = files[file].path;
+        files[file].path = file;
+      }
+      files[file].path = file;
+    }
+    done();
+};
+
+var relativePathHelper = function(current, target) {
+    // normalize and remove starting slash
+    current = path.normalize(current).slice(0);
+    target = path.normalize(target).slice(0);
+
+    current = path.dirname(current);
+    var out = path.relative(current, target);
+    return out;
+};
 
 handlebars.registerPartial('header', fs.readFileSync(__dirname + '/templates/partials/header.hbt').toString());
 handlebars.registerPartial('footer', fs.readFileSync(__dirname + '/templates/partials/footer.hbt').toString());
 handlebars.registerHelper('moment', require('helper-moment'));
+handlebars.registerHelper('relative_path', relativePathHelper);
 
 var findTemplate = function(config) {
   var pattern = new RegExp(config.pattern);
@@ -47,7 +74,7 @@ var siteBuild = metalsmith(__dirname)
     author: "M. Hokanson"
   })
   .source('./src')
-  .use(markdown())
+  .use(md)
   .use(excerpts())
   .use(collections({
     pages: {
@@ -75,6 +102,7 @@ var siteBuild = metalsmith(__dirname)
       relative: false
     }))
   )
+  .use(filePathTask)
   .use(templates('handlebars'))
   .use(feed({collection: 'posts'}))
   .destination('./build');
