@@ -102,9 +102,9 @@ var siteBuild = metalsmith(__dirname)
       relative: false
     }))
   )
+  .use(feed({collection: 'posts'}))
   .use(filePathTask)
   .use(templates('handlebars'))
-  .use(feed({collection: 'posts'}))
   .destination('./build');
 
 if (process.env.NODE_ENV !== 'production') {
