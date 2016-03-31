@@ -82,7 +82,7 @@ var siteBuild = metalsmith(__dirname)
     },
     posts: {
       pattern: 'content/posts/*.html',
-      sortBy: 'date',
+      sortBy: 'publishDate',
       reverse: true
     }
   }))
