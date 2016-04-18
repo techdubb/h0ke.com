@@ -12,7 +12,6 @@ The first part of the voyage was prompted by a challenge in the vein of: [get ri
 The process started a bit slow, but as the trash bags filled up and the donation box was about to overflow, we neared item one hundred in no time. Stepping back for a moment, it was interesting to see what 100 things looked like. On one hand I was proud of what we had done. On the other hand, if this was 100 pieces of stuff we probably owned thousands, if not tens of thousands of items. This thought was terrifying.
 
 Months later, armed with our previous experience and Marie Kondo's book “[The Life-Changing Magic of Tidying Up](http://www.amazon.com/gp/product/B00KK0PICK/),” we began the next, more involved leg of the journey. I'll spare you the play by play, but suffice it to say that we donated/consigned/sold pounds of clothing and hundreds of books at this point. We’ve stalled at the book phase, but only because it’s taken many weekends to sell them at a local book store.
-(photo of book pile here)
 
 You might be wondering, “What prompted this journey in the first place?” I’m glad you’ve asked as there were a few things in particular:
 
