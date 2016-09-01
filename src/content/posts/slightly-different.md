@@ -1,6 +1,7 @@
 ---
 title: slightly different
 publishDate: 2016-05-25
+homeShow: true
 ---
 
 Being slightly different is something that I've always “been”. I was quiet until halfway through high school. I played soccer in a football loving town. I wore polyester pants, t-shirts and ties, often at the same time. I shopped at thrift stores, grew my hair long and didn't drink. I pledged a fraternity sober and didn't date until I was 25 years old.
