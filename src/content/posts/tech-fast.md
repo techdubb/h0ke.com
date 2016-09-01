@@ -4,7 +4,7 @@ publishDate: 2016-08-31
 homeShow: true
 ---
 
-After listening to the On Being podcast with Tiffany Shlain, I’ve been thinking about the concept of a technological sabbath. Technology has always been part of the observed shabbat, but this modern take is concerned specifically with screens and other such devices.
+After listening to the On Being podcast with Tiffany Shlain, I’ve been thinking about the concept of a [technological sabbath](http://www.moxieinstitute.org/technology_shabbats). Technology has always been part of the observed shabbat, but this modern take is concerned specifically with screens and other such devices.
 
 Shlain reports being “so much more creative come Sunday morning.” If you think about it, this makes sense. For all the benefits of technology, a heightened ability to focus is not one of them. Allowing for whitespace in one's life is a whole blog post in itself, so I'll only say this: time away from devices allows you and your brain to explore new topics and delve into new and musty caverns of the mind.
 
