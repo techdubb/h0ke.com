@@ -1,0 +1,39 @@
+# Header
+menu:
+  home: /
+  about: /about
+  projects: /projects
+
+# Title on top left of menu. Leave empty to use main blog title
+menu_title:
+
+# URL of the Home page image
+index_cover: /images/hero02.jpg
+
+# Default post title
+default_post_title: Untitled
+
+# Comments. Choose one by filling up the information
+comments:
+  # Disqus comments
+  disqus_shortname:
+  # Facebook comments
+  facebook:
+    appid:
+    comment_count: 5
+    comment_colorscheme: light
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Addthis ID
+addthis:
+
+# Social Accounts
+twitter_url: https://twitter.com/h0ke
+twitter_handle: h0ke
+facebook_url:
+github_url: https://github.com/h0ke
+gitlab_url:
+linkedin_url: https://www.linkedin.com/in/matthewhokanson
+mailto: m@h0ke.com

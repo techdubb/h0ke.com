@@ -1,7 +1,0 @@
-{{> header}}
-    <div class="content">
-      <h2>{{title}}</h2>
-      By {{author}} | Published {{moment publishDate format="M.D.YYYY"}}
-      {{{contents}}}
-    </div>
-{{> footer}}
