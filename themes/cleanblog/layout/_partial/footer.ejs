@@ -6,6 +6,28 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
+                    <% if (theme.tinyletter_url) { %>
+                        <li>
+                            <a href="<%- theme.tinyletter_url%>" target="_blank">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-heart fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    <% } %>
+
+                    <% if (theme.fhpx_url) { %>
+                        <li>
+                            <a href="<%- theme.fhpx_url%>" target="_blank">
+                                <span class="fa-stack fa-lg">
+                                    <i class="fa fa-circle fa-stack-2x"></i>
+                                    <i class="fa fa-500px fa-stack-1x fa-inverse"></i>
+                                </span>
+                            </a>
+                        </li>
+                    <% } %>
+
                     <% if (theme.twitter_url) { %>
                         <li>
                             <a href="<%- theme.twitter_url%>" target="_blank">

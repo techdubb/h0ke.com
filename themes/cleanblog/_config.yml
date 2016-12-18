@@ -2,13 +2,12 @@
 menu:
   home: /
   about: /about
-  projects: /projects
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title:
 
 # URL of the Home page image
-index_cover: /images/hero02.jpg
+index_cover: /images/hero01.jpg
 
 # Default post title
 default_post_title: Untitled
@@ -34,6 +33,8 @@ twitter_url: https://twitter.com/h0ke
 twitter_handle: h0ke
 facebook_url:
 github_url: https://github.com/h0ke
+tinyletter_url: https://tinyletter.com/h0ke
+fhpx_url: https://500px.com/h0ke
 gitlab_url:
 linkedin_url: https://www.linkedin.com/in/matthewhokanson
 mailto: m@h0ke.com

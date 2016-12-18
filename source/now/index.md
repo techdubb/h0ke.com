@@ -5,16 +5,12 @@ title: now
 
 That's a great question! This idea was *borrowed* from [Derek Sivers](https://sivers.org/nowff). I'm spending my time...
 
-* being the father of a [tiny human](http://lucashokanson.com).
+* being the father of a [small human](http://lucashokanson.com).
 
-* as the engineering lead helping maintain [Preact](http://www.preact.com) and build [Ptero](http://www.pterohq.com).
+* as a data engineer at [Spotify](https://www.spotify.com).
 
-* working on a prototype for a [vacation days tracker](https://github.com/scarow/pto-tracker).
+* reading [*The Inevitable* by Kevin Kelly](http://kk.org/books/the-inevitable/).
 
-* learning how [serverless](https://github.com/serverless/serverless) works to build [30 Day Delay](http://30daydelay.com/).
+* [listening](http://www.merlinmann.com/roderick) [to](http://zenparentingradio.com/) [way](https://www.showaboutrace.com/) [too](http://5by5.tv/roadwork) [many](https://www.relay.fm/rd) [podcasts](http://dobyfriday.com/).
 
-* currently reading *The Inevitable* by Kevin Kelly.
-
-* listening to way too many podcasts.
-
-<small>*(last updated on 10/04/16)*</small>
+<small>*(last updated on 12/18/16)*</small>
