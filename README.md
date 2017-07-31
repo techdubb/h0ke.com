@@ -1,6 +1,5 @@
 # Deploy? Sure!
 
-* `hexo generate`
+* `npm run deploy`
 * `git commit -am "new fun build"`
 * `git push`
-* `git subtree push --prefix public origin gh-pages`
