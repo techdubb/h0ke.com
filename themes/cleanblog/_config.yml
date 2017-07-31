@@ -29,8 +29,8 @@ google_analytics: UA-23373956-1
 addthis:
 
 # Social Accounts
-twitter_url: https://twitter.com/h0ke
-twitter_handle: h0ke
+twitter_url:
+twitter_handle:
 facebook_url:
 github_url: https://github.com/h0ke
 tinyletter_url: https://tinyletter.com/h0ke
