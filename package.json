@@ -6,7 +6,7 @@
     "deploy": "hexo generate && hexo deploy"
   },
   "hexo": {
-    "version": "3.2.2"
+    "version": "3.3.8"
   },
   "dependencies": {
     "hexo": "^3.2.0",
