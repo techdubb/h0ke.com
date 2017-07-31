@@ -11,6 +11,6 @@ That's a great question! This idea was *borrowed* from [Derek Sivers](https://si
 
 * reading [a few books](https://www.goodreads.com/h0ke).
 
-* [listening](http://www.merlinmann.com/roderick) [to](http://zenparentingradio.com/) [a](https://www.showaboutrace.com/) [few](http://5by5.tv/roadwork) [podcasts](http://dobyfriday.com/).
+* [listening](http://www.merlinmann.com/roderick) [to](http://www.radiolab.org/) [a](http://www.npr.org/sections/codeswitch/) [few](http://www.greaterthancode.com/) [podcasts](http://99percentinvisible.org/).
 
 <small>*(last updated on 07/30/17)*</small>
