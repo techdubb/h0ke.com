@@ -1,7 +1,7 @@
 ---
 title: about
 ---
-Hi. I'm Matt. Some people call me Hoke. I'm currently residing in the fine city of El Cerrito, CA.
+Hi. I'm Matt. Some people call me Hoke. I'm currently residing in the fine borough of Brooklyn, NY.
 
 See what I'm doing with my time [now](../now). If you want to subscribe to my quasiperiodic newsletter, [click here](https://tinyletter.com/h0ke).
 
