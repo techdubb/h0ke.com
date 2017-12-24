@@ -14,13 +14,13 @@
                         <%- item.subtitle %>
                     </h2>
                     <% } %>
-                    <div class="postmetadata meta">
+                    <span class="meta">
                         <!-- Date and Author -->
                         <% if(item.author) { %>
                             Posted by <%- item.author %> on
                         <% } %>
                         <%= item.date.format(config.date_format) %>
-                    </div>
+                    </span>
                 </div>
             </div>
         </div>

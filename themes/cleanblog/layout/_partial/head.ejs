@@ -20,6 +20,16 @@
         <meta name="author" content="<%= config.author %>">
     <% } %>
 
+    <!--Publish time -->
+    <% if (page.date){ %>
+        <meta name="article:published_time" content="<%= page.date %>">
+    <% } %>
+
+    <!--Update time -->
+    <% if (page.updated){ %>
+        <meta name="article:modified_time" content="<%= page.updated %>">
+    <% } %>
+
     <!--Open Graph Title-->
     <% if (page.title){ %>
         <meta property="og:title" content="<%= page.title %>"/>
