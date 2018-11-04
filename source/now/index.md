@@ -7,10 +7,10 @@ That's a great question! This idea was *borrowed* from [Derek Sivers](https://si
 
 * being the father of a [small human](http://lucashokanson.com).
 
-* as an engineering manager at [Spotify](https://www.spotify.com).
+* as an engineering manager manager at [Spotify](https://www.spotify.com).
 
 * reading [a few books](https://www.goodreads.com/h0ke).
 
-* [listening](http://www.merlinmann.com/roderick) [to](http://www.radiolab.org/) [a](http://www.npr.org/sections/codeswitch/) [few](https://www.wnyc.org/shows/deathsexmoney) [podcasts](http://99percentinvisible.org/).
+* [listening](http://www.merlinmann.com/roderick) [to](https://www.gimletmedia.com/reply-all) [a](http://www.npr.org/sections/codeswitch/) [few](http://5by5.tv/roadwork) [podcasts](http://www.sceneonradio.org/).
 
-<small>*(last updated on 07/30/17)*</small>
+<small>*(last updated on 11/03/18)*</small>
