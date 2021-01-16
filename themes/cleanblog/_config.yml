@@ -29,11 +29,11 @@ google_analytics: UA-23373956-1
 addthis:
 
 # Social Accounts
-twitter_url:
-twitter_handle:
+twitter_url: https://twitter.com/_h0ke
+twitter_handle: _h0ke
 facebook_url:
 github_url: https://github.com/h0ke
-tinyletter_url: https://tinyletter.com/h0ke
+rss_feed: https://h0ke.com/atom.xml
 fhpx_url: https://500px.com/h0ke
 gitlab_url:
 linkedin_url: https://www.linkedin.com/in/matthewhokanson
