@@ -68,13 +68,6 @@ theme: cleanblog
 plugins:
   hexo-footnotes
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:h0ke/h0ke.com.git
-  branch: gh-pages
-
 
 feed:
   type: atom
