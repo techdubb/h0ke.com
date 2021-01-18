@@ -13,4 +13,4 @@ That's a great question! This idea was *borrowed* from [Derek Sivers](https://si
 
 * [listening](https://gimletmedia.com/shows/howtosaveaplanet) [to](https://www.gimletmedia.com/reply-all) [a](http://www.npr.org/sections/codeswitch/) [few](https://samharris.org/podcast/) [podcasts](http://www.sceneonradio.org/).
 
-<small>*(last updated on 03/30/20)*</small>
+<small>*(last updated on Jan 16 2021)*</small>
