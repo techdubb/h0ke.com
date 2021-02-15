@@ -68,7 +68,6 @@ theme: cleanblog
 plugins:
   hexo-footnotes
 
-
 feed:
   type: atom
   path: atom.xml
