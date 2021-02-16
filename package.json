@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "hexo": "^4.0.0",
+    "hexo-excerpt": "^1.1.6",
     "hexo-footnotes": "^1.0.1",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",

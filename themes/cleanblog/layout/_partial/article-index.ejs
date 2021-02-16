@@ -15,6 +15,12 @@
             Posted by <%- item.author %> on
         <% } %>
         <%= item.date.format(config.date_format) %>
+        <%- item.excerpt %>
+        <% if (theme.excerpt_link){ %>
+          <p class="article-more-link">
+            <a href="<%- config.root %><%- item.path %>#more"><%= theme.excerpt_link %></a>
+          </p>
+        <% } %>
     </p>
 </div>
 <hr>

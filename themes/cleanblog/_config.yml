@@ -12,6 +12,8 @@ index_cover: /images/hero01.jpg
 # Default post title
 default_post_title: Untitled
 
+excerpt_link: read more →
+
 # Comments. Choose one by filling up the information
 comments:
   # Disqus comments
