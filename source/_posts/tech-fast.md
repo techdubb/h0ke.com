@@ -2,6 +2,7 @@
 title: tech fast
 date: 2016-08-31
 subtitle: sometimes you just have to put the device down.
+tags: blog
 ---
 After listening to the On Being podcast with Tiffany Shlain, I’ve been thinking about the concept of a [technological sabbath](http://www.moxieinstitute.org/technology_shabbats). Technology has always been part of the observed shabbat, but this modern take is concerned specifically with screens and other such devices.
 

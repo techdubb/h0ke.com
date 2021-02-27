@@ -11,6 +11,6 @@ That's a great question! This idea was *borrowed* from [Derek Sivers](https://si
 
 * reading [a few books](https://www.goodreads.com/h0ke).
 
-* [listening](https://gimletmedia.com/shows/howtosaveaplanet) [to](https://www.gimletmedia.com/reply-all) [a](http://www.npr.org/sections/codeswitch/) [few](https://samharris.org/podcast/) [podcasts](http://www.sceneonradio.org/).
+* [listening](https://gimletmedia.com/shows/howtosaveaplanet) [to](http://www.merlinmann.com/roderick/) [a](http://www.npr.org/sections/codeswitch/) [few](https://samharris.org/podcast/) [podcasts](http://www.sceneonradio.org/).
 
-<small>*(last updated on Jan 16 2021)*</small>
+<small>*(last updated on Feb 27 2021)*</small>

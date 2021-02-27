@@ -2,6 +2,7 @@
 title: the future of libraries
 date: 2016-04-06
 subtitle: they're not going anywhere, but what will they become?
+tags: blog
 ---
 
 I recently went through the process of renting a Kindle book from my local library. I assumed it was going to be difficult and require me to Google several steps along the way.

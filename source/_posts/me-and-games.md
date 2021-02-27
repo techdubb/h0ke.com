@@ -2,6 +2,7 @@
 title: me and games
 date: 2016-01-18
 subtitle: a long, sordid history with games.
+tags: blog
 ---
 I've always wanted to like games. I've tried. I really have. When I was young, I would spend entire summer days in a friend’s basement playing SimCity, Doom and all the other great games of the 90s. Even then, once summer sessions started for soccer, I would haul out of the basement, grab my gear and run to the field.
 

@@ -1,6 +1,7 @@
 ---
 title: le premier œuf
 date: 2020-12-01
+tags: photo
 ---
 ![the first egg](le-premier-oeuf.jpg)
 

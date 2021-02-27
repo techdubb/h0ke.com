@@ -2,6 +2,7 @@
 title: decluttering
 date: 2016-04-17
 subtitle: stuff, stuff, stuff, and more stuff.
+tags: blog
 ---
 Over the last six months, my family has embarked on a decluttering journey. Our goals didn’t include achieving a minimalistic nirvana, but we noticed a decent amount of… let's call it “build up”. It ranged from a stack of magazines intended for collages and a few too many hangers supporting clothing that was sure to fit again.
 

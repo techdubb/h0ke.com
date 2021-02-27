@@ -2,6 +2,7 @@
 title: suspenders
 date: 2016-02-14
 subtitle: pants are dumb.
+tags: blog
 ---
 Pants are dumb. I have [thoughts on pants](https://twitter.com/search?q=%40h0ke%20pants&src=typd).
 

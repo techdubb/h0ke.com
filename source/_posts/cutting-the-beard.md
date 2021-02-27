@@ -2,6 +2,7 @@
 title: cutting (some of) the beard
 date: 2016-03-30
 subtitle: making a mountain out of a beard-hill.
+tags: blog
 ---
 The idea of cutting my beard had always come and gone since the first days of growth. It wasn't until year four that the notion really started to gain a foothold. Like many things, my determination to keep growing wasn't dashed in one fell swoop, but slowly chiseled at. 
 

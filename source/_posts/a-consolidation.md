@@ -2,6 +2,7 @@
 title: a consolidation
 date: 2021-01-16
 subtitle: pulling things back onto the internet.
+tags: blog
 ---
 i've always been bothered by the fact that i've shut down old blogs instead of carrying over the content. not that any of the writing was amazing or particularly insightful, but I enjoy seeing _other_ bloggers' progress through time. 
 

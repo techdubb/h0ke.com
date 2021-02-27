@@ -1,8 +1,8 @@
 ---
 title: the blue sky
 date: 2021-02-13
-tags:
+tags: photo
 ---
 ![the blue sky](the-blue-sky.jpg)
 
-Sometime when I'm walking around, I remember to look up.
+Sometimes when I'm walking around, I remember to look up.

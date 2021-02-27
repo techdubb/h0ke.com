@@ -2,6 +2,7 @@
 title: just pick one
 date: 2016-06-28
 subtitle: are more choices better?
+tags: blog
 ---
 One of the best things I've ever done to improve myself is become a better chooser. The green or red shirt? Bam, picked one. Omelette or scramble? Pow, order requested. Coffee or tea? Well… you get the picture. This wasn't always the case for me. I used to pour over a dinner menu, looking at nearby tables trying to approximate what they ordered and if they were satisfied. Mere moments after the waiter turned their back to the table, I'd begin second guessing my choice.
 

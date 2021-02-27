@@ -2,6 +2,7 @@
 title: goats do not eat everything
 date: 2018-01-13
 subtitle: in fact, they are quite picky.
+tags: blog
 ---
 Recently, I overheard someone telling a story about the goat his neighbor had growing up. “Yeah! It was tied with a rope to a tree, and the old man used to feed his cats and then throw the tin cans in the backyard. The goat would eat the entire can!”
 
