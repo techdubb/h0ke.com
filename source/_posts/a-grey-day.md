@@ -5,4 +5,4 @@ tags: photo
 ---
 ![a grey day with trees](a-grey-day.jpg)
 
-This is an image I took in November of 2020. On a very grey day I decided to stop and walk down to the Saco River in Southern Maine.
+This is an image I took in November of 2020. On a very grey day I decided to stop the car on the way home and walk down to the Saco River.
