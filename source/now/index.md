@@ -7,10 +7,10 @@ That's a great question! This idea was *borrowed* from [Derek Sivers](https://si
 
 * being the father of [small](http://lucashokanson.com) [people](http://nadinehokanson.com).
 
-* as an engineer at [Spotify](https://www.spotify.com).
+* as an engineering manager at [Spotify](https://www.spotify.com).
 
 * reading [a few books](https://www.goodreads.com/h0ke).
 
-* [listening](https://gimletmedia.com/shows/howtosaveaplanet) [to](http://www.merlinmann.com/roderick/) [a](http://www.npr.org/sections/codeswitch/) [few](https://samharris.org/podcast/) [podcasts](http://www.sceneonradio.org/).
+* [listening](https://www.alieward.com/ologies) [to](https://podcasts.voxmedia.com/show/pivot) [a](https://discgolf.ultiworld.com/podcast/the-upshot/) [few](https://www.theringer.com/plain-english-with-derek-thompson-podcast) [podcasts](https://www.thedeeplife.com/listen/).
 
-<small>*(last updated on Feb 27 2021)*</small>
+<small>*(last updated on Jun 04 2023)*</small>

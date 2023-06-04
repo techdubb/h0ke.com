@@ -31,10 +31,10 @@ google_analytics: UA-23373956-1
 addthis:
 
 # Social Accounts
-twitter_url: 
-twitter_handle: 
+twitter_url:
+twitter_handle:
 facebook_url:
-github_url: https://github.com/h0ke
+github_url: https://github.com/techdubb
 rss_feed: https://h0ke.com/atom.xml
 fhpx_url: https://500px.com/h0ke
 gitlab_url:
