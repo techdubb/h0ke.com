@@ -7,10 +7,10 @@ That's a great question! This idea was *borrowed* from [Derek Sivers](https://si
 
 * being the father of [small](http://lucashokanson.com) [people](http://nadinehokanson.com).
 
-* as an engineering manager at [Spotify](https://www.spotify.com).
+* as an engineering manager at [ezCater](https://www.ezcater.com).
 
-* reading [a few books](https://www.goodreads.com/h0ke).
+* reading [a few books](https://hardcover.app/@techdubb/books/currently-reading).
 
-* [listening](https://www.alieward.com/ologies) [to](https://podcasts.voxmedia.com/show/pivot) [a](https://discgolf.ultiworld.com/podcast/the-upshot/) [few](https://www.theringer.com/plain-english-with-derek-thompson-podcast) [podcasts](https://www.thedeeplife.com/listen/).
+* [listening](https://armchairexpertpod.com/flightless-bird) [to](https://www.podpage.com/mike-birbiglias-working-it-out/) [a](https://discgolf.ultiworld.com/podcast/the-upshot/) [few](https://www.theringer.com/plain-english-with-derek-thompson-podcast) [podcasts](https://armchairexpertpod.com/).
 
-<small>*(last updated on Jun 04 2023)*</small>
+<small>*(last updated on May 28 2025)*</small>
