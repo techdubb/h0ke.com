@@ -13,7 +13,7 @@ Static site built with **Hexo 4** and a customized **cleanblog** theme.
 - `scaffolds/` – templates used by `hexo new`.
 - `themes/cleanblog/` – the active theme (EJS layouts in `layout/`, partials in `layout/_partial/`). Its `_config.yml` holds the menu, social links (github, mastodon, 500px, linkedin, mailto) and the GA id. The footer social links live here.
 - `themes/landscape/` – the stock Hexo theme. It is unused.
-- `public/` – **generated output, committed to git**. The live site is served from this committed build.
+- `public/` – **generated output, committed to git**. Hosting is Netlify (project `h0ke`), which also builds deploy previews for PRs.
 
 ## Post front matter
 
@@ -37,5 +37,6 @@ Footnotes use `[^1]` syntax via `hexo-footnotes`. Excerpts come from `hexo-excer
 
 ## Notes
 
-- `db.json` is Hexo's cache and is committed. Regenerating will change it.
+- `db.json` is Hexo's cache and is committed. Regenerating will change it, and it conflicts whenever both sides rebuild. Pull `master` before starting. To fix a conflict, take `master`'s copy and run `npx hexo generate` again.
+- Regenerating can also rewrite `public/atom.xml` summaries for older posts (plugin version drift). Revert that unless the feed is meant to change.
 - Local Node is v22. Hexo 4 is old, so if a build misbehaves, check for Node version issues first.
